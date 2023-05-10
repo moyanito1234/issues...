@@ -1,3 +1,7 @@
 # issues...
-aquí hare el quickstart de issues
-modificacion 1
+**aquí hare el quickstart de _issues_**
+modificacion 1 
+:blush:
+:blush:
+:blush:
+
